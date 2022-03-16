@@ -1,0 +1,11 @@
+{
+  "background_color": "#333",
+  "display": "standalone",
+  "name": "geo-location",
+  "short_name": "geo-location",
+  "version": "com.labs.geolocation",
+  "description": "Sample Apache Cordova App",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}
